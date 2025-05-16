@@ -1,0 +1,10 @@
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound Control Panel.csproj.AssemblyReference.cache
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound_Control_Panel.Properties.Resources.resources
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound Control Panel.csproj.GenerateResource.cache
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound Control Panel.csproj.CoreCompileInputs.cache
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound_Control_Panel.Form1.resources
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\bin\Debug\Foxhound Control Panel.exe.config
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\bin\Debug\Foxhound Control Panel.exe
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\bin\Debug\Foxhound Control Panel.pdb
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound Control Panel.exe
+E:\Projects\Foxhound\Foxhound Control Panel\Foxhound Control Panel\obj\Debug\Foxhound Control Panel.pdb

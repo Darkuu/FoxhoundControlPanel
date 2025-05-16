@@ -1,0 +1,11 @@
+"Kill 5 OTA",
+"Kill 5 MPF",
+"Kill 5 MSO",
+"Kill 5 NPU",
+"Kill 5 EOW",
+"Harvest 10 Nodes",
+"Get 3 kills in 1 life",
+"Get 20 kills on any weapon",
+"Get 3 melee kills",
+"Recommend someone at DB",
+"Loot 5 Combine weapons via /me"
